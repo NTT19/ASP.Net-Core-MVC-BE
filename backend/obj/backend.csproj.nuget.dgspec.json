@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\Y2_HK3\\Application-Development\\Final_Project\\backend\\backend\\backend\\backend.csproj": {}
+    "D:\\University\\Y2_HK3\\Application-Development\\Tai-Backend\\ASP.Net-Core-MVC-BE\\backend\\backend.csproj": {}
   },
   "projects": {
-    "D:\\University\\Y2_HK3\\Application-Development\\Final_Project\\backend\\backend\\backend\\backend.csproj": {
+    "D:\\University\\Y2_HK3\\Application-Development\\Tai-Backend\\ASP.Net-Core-MVC-BE\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Y2_HK3\\Application-Development\\Final_Project\\backend\\backend\\backend\\backend.csproj",
+        "projectUniqueName": "D:\\University\\Y2_HK3\\Application-Development\\Tai-Backend\\ASP.Net-Core-MVC-BE\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "D:\\University\\Y2_HK3\\Application-Development\\Final_Project\\backend\\backend\\backend\\backend.csproj",
+        "projectPath": "D:\\University\\Y2_HK3\\Application-Development\\Tai-Backend\\ASP.Net-Core-MVC-BE\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Y2_HK3\\Application-Development\\Final_Project\\backend\\backend\\backend\\obj\\",
+        "outputPath": "D:\\University\\Y2_HK3\\Application-Development\\Tai-Backend\\ASP.Net-Core-MVC-BE\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
